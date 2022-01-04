@@ -1,4 +1,5 @@
 {
+    "name": "Motorway Link",
     "icon": "iD-highway-motorway-link",
     "fields": [
         "destination_oneway",
@@ -41,5 +42,7 @@
         "on ramp",
         "off ramp"
     ],
-    "name": "Motorway Link"
+    "locationSet": {
+        "exclude": ["ca", "us"]
+    }
 }

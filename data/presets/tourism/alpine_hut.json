@@ -4,6 +4,7 @@
         "name",
         "operator",
         "address",
+        "phone",
         "building_area",
         "internet_access",
         "internet_access/fee",
@@ -14,9 +15,8 @@
     "moreFields": [
         "email",
         "fax",
-        "gnis/feature_id",
+        "gnis/feature_id-US",
         "internet_access/ssid",
-        "phone",
         "reservation",
         "website",
         "wheelchair"
